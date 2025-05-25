@@ -1,10 +1,7 @@
 # Image-steganography
 
 # ABSTRACT
-
-For our minor project, we have chosen to do Image Steganography. The project was
-
-primarily built using python programming language. ‘Steganography’ is a word de-
+ The project was primarily built using python programming language. ‘Steganography’ is a word de-
 rived from two Greek words-‘stegos’ and ‘grafiya’ which mean ‘to hide’ and ‘writing’
 
 respectively. It roughly translates to ‘hidden writing’.Steganography is the art of hid-
